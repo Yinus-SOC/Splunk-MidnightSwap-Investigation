@@ -75,4 +75,4 @@ This project demonstrates a Security Operations Center (SOC) threat investigatio
 
 **Ademuyiwa Yinus**
 
-Aspiring SOC Analyst | Splunk | Threat Detection | SIEM | Cybersecurity
+Entry-Level SOC Analyst | Splunk | Threat Detection | SIEM | Cybersecurity
